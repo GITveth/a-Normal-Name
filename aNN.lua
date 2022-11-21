@@ -1,6 +1,4 @@
-local a = math.random(1,2)
-local b = math.random(1,2)
-
-if a >= b then print('A is greater than B!')
-  else print('A is Less than or equal to B!')
+local function Confusion(a,b,c,d,e,f,g,h,i)
+    local a,b,c,d,e,f,g,h,i=i,h,g,f,e,d,c,b,a
+    print(a,b,c,d,e,f,g,h,i)
 end
