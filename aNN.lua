@@ -1,3 +1,6 @@
+local a = 1
+local b = 2
+
 function sayHello()
    print("Hello, world")
 end
