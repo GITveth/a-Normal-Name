@@ -1,4 +1,4 @@
-locla num = math.random(1,100
+locla num = math.random(1,100)
 
 function roundToNearestEven(num)
   if num % 2 ~= 0 then
