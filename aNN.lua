@@ -1,7 +1,5 @@
-local A = 'good'
-local F = 'bad'
-local MyGrades = math.random(1,2)
+local a = math.random(1,2)
+local b = math.random(1,2)
 
-if MyGrades == 1 then print(A)
-  else print(F)
-end
+if a < b print('A is greater than B!')
+  else print('A is Less than or equal to B!')
